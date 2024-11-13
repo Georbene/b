@@ -40,7 +40,6 @@ const nigerianFood = [
         image: "https://res.cloudinary.com/dk2wqgk0e/image/upload/v1688398402/Fufu_1_t0xg2n.jpg"
     }
 ]
-
 let userSchema = mongoose.Schema({
     item: String,
 })
